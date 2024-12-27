@@ -1,6 +1,6 @@
 {
   "name": "futurebit-image-react-native",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native component for progressive image loading",
   "main": "src/index.tsx",
   "scripts": {

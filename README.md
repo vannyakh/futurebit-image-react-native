@@ -1,8 +1,7 @@
-# React Native Image Blur Loading
+# Futurebit Image React Native
 
-React Native component for progressive image loading.
+A React Native component for progressive image loading
 
-<!-- ![](image-blur-loading.gif) -->
 
 ## Installation
 
@@ -10,11 +9,15 @@ Run in your root project directory
 
 using NPM
 ```bash
-$ npm install react-native-image-blur-loading
+$ npm install futurebit-image-react-native
 ```
 or using yarn
 ```bash
-$ yarn add react-native-image-blur-loading
+$ yarn add futurebit-image-react-native
+```
+or using bun
+```bash
+$ bun add futurebit-image-react-native
 ```
 
 ## Usage
@@ -22,7 +25,7 @@ $ yarn add react-native-image-blur-loading
 ```jsx
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import ImageBlurLoading from 'react-native-image-blur-loading'
+import ImageBlurLoading from 'futurebit-image-react-native'
 
 // ...
 const MyComponent = () => {
